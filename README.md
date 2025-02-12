@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohit-uniyal-dev
 - 👀 I’m interested in Browser extension and web development.
-- 🌱 I’m currently learning guitar.
+- 🌱 I’m currently learning Next.js
 - 📫 How to reach me: mohituniyal@frootystudios.com
 
 <!---
